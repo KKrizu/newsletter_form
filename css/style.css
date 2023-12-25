@@ -1,0 +1,77 @@
+html {
+    font-size: 62.5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-color: #236746;
+    margin-top: 4rem;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h4 {
+    font-size: 2rem;
+    padding: 2rem 2rem 0 2rem;
+}
+
+.singup-form p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.singup-form p a {
+    color: #FF7F50;
+}
+
+#existing-account {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    color: white;
+}
+
+#existing-account a {
+    color: #FF7F50;
+}
+
+button {
+    background-color: #FF7F50;
+    border: none;
+    margin: 2rem;
+    width: 100%;
+    max-width: 20rem;
+    height: 4rem;
+    border-radius: 1rem;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.singup-form label {
+    display: flex;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.singup-form {
+    width: 100%;
+    max-width: 50rem;
+    margin: auto;
+    background-color: white;
+    text-align: center;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+.input-box {
+    box-sizing: border-box;
+    width: 100%;
+    height: 4rem;
+    font-size: 2.5rem;
+    border-radius: 0.5rem;
+}
+
